@@ -1,0 +1,23 @@
+{
+  "name": "bamazon-dependencies",
+  "version": "1.0.0",
+  "description": "bamazon npm dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilcannon/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilcannon/bamazon/issues"
+  },
+  "homepage": "https://github.com/kilcannon/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
