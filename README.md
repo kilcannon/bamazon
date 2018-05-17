@@ -23,6 +23,6 @@ Theme: Keepin' it super Node-tastic!
 + Add Supervisor view to look at metrics from sales on a different layer
 
 ### Image Captures of App Functioning
-<img src="assets/image_walkthrough/customer_view_purchase_product.png">
+<img src="assets/image_walkthrough/customer_view_purchase_product.png" height="50%" width="50%">
 
 ### Feedback is always appreciated!
