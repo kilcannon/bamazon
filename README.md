@@ -23,16 +23,16 @@ Theme: Keepin' it super Node-tastic!
 + Add Supervisor view to look at metrics from sales on a different layer
 
 ### Image Captures of App Functioning
-Customer View
+Customer View<br>
 <img src="assets/image_walkthrough/customer_view_purchase_product.png" height="60%" width="60%">
 
-Manager Invetory View
+Manager Invetory View<br>
 <img src="assets/image_walkthrough/manager_view_inventory.png" height="60%" width="60%">
 
-Manager Restock Product View
+Manager Restock Product View<br>
 <img src="assets/image_walkthrough/manager_view_restock_inventory.png" height="60%" width="60%">
 
-Manager Add Product View
+Manager Add Product View<br>
 <img src="assets/image_walkthrough/manager_view_add_product.png" height="60%" width="60%">
 
 ### Feedback is always appreciated!
