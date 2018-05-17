@@ -2,7 +2,7 @@
 
 https://kilcannon.github.io/bamazon/
 
-## Welcome to my super awesome Bamazon Node App!
+### Welcome to my super awesome Bamazon Node App!
 
 This app gives you the ability to operate as a shopper or manager at Bamazon.
 
@@ -28,6 +28,9 @@ Customer View<br>
 
 Manager Invetory View<br>
 <img src="assets/image_walkthrough/manager_view_inventory.png" height="60%" width="60%">
+
+Manager LOW Invetory View<br>
+<img src="assets/image_walkthrough/manager_view_low_inventory.png" height="60%" width="60%">
 
 Manager Restock Product View<br>
 <img src="assets/image_walkthrough/manager_view_restock_inventory.png" height="60%" width="60%">
